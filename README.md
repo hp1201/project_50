@@ -4,4 +4,4 @@
 
 ## 2022/8/3: Hidden Search
 
-## 2022/8/3: Random Choice Picker
+## 2022/8/5: Random Choice Picker
